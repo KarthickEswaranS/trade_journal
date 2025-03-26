@@ -1,1 +1,2 @@
 # trade_journal
+---
